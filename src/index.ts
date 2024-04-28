@@ -25,7 +25,7 @@ server.listen(8000, () => {
 });
 
 const MongoUrl =
-  "mongodb+srv://Abdelrahman:F21gZ46dJMUPI7OV@cluster0.4nwzalo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+  "_______________put yours___________";
 
 mongoose.Promise = Promise;
 mongoose.connect(MongoUrl);
